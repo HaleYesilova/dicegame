@@ -1,4 +1,4 @@
-# Data Communication Project - Dice Game
+Dice Game
 Data Communication Project - Dice Game 
 
 Terminal command to start the server: gcc -o dice_server dice_server.c
